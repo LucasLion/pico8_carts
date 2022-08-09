@@ -2,7 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 36
 __lua__
 --platformer
--- by lucas lion
+-- by lucas lion and vim
 
 function _init()
 	p={x=20,y=20,}
